@@ -39,7 +39,7 @@ The Pharma dataset  which was already clean contains sales information with the 
 - Manager
 - Sales Team
 
-  ## Exploratory Data Analysis
+## Exploratory Data Analysis
   
 Some of the key questions answered are;
 1. How many unique countries are represented in the dataset? 
