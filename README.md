@@ -5,7 +5,7 @@
 - [Aim of Project](#aim-of-project)
 - [Tools](#tools)
 - [Dataset Overview](#dataset-overview)
-- [Exploratory Data Analysis](#exploratory-data-ananlysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
