@@ -2,13 +2,13 @@
 
 ## Table Of Contents
 
-- [Aim of Project](aim-of-project)
-- [Tools](tools)
-- [Dataset Overview](dataset-overview)
-- [Exloratory Data Analysis](exploratory-data-ananlysis)
-- [Key Insights](key-insights)
-- [Recommendations](recommendations)
-- [Conclusion](conclusion)
+- [Aim of Project](#aim-of-project)
+- [Tools](#tools)
+- [Dataset Overview](#dataset-overview)
+- [Exloratory Data Analysis](#exploratory-data-ananlysis)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
   
 
 ## Aim of Project
