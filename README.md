@@ -85,9 +85,7 @@ Key Insights
       downturns, increased competition, changes in customer preferences, or external factors such as global events affecting the market.
 8. Top Product Classes: Analgesics generated the most sales with 2.4 billion dollars, followed by Antiseptics with 2.2 billion dollars. The least sales were from Antibiotics (1.8 billion dollars) and 
    Antimalarials (1.5 billion dollars).
-9. Addressing Declines: Investigate the reasons behind the YoY decline in countries like Germany and develop strategies to counteract these declines, such as market research to understand changing customer 
-   preferences or exploring new markets.
- 
+
 
 ### Recommendations
 
@@ -96,6 +94,9 @@ Key Insights
 3. Channel Strategies: Develop specific strategies for different sub-channels based on their performance and average price metrics.
 4. Geographical Focus: Focus marketing and sales efforts on top-performing cities and countries to maximize returns.
 5. Performance Review: Regularly review sales reps' performance and provide targeted training or incentives to improve overall sales.
+6. Addressing Declines: Investigate the reasons behind the YoY decline in countries like Germany and develop strategies to counteract these declines, such as market research to understand changing customer 
+   preferences or exploring new markets.
+ 
 
 ### Conclusion
 
