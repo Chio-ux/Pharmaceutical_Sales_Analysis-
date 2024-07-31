@@ -94,8 +94,7 @@ Key Insights
 3. Channel Strategies: Develop specific strategies for different sub-channels based on their performance and average price metrics.
 4. Geographical Focus: Focus marketing and sales efforts on top-performing cities and countries to maximize returns.
 5. Performance Review: Regularly review sales reps' performance and provide targeted training or incentives to improve overall sales.
-6. Addressing Declines: Investigate the reasons behind the YoY decline in countries like Germany and develop strategies to counteract these declines, such as market research to understand changing customer 
-   preferences or exploring new markets.
+6. Addressing Declines: Investigate the reasons behind the YoY decline in  Germany between 2019 and 2020, and develop strategies to counteract these declines, such as market research to understand changing customer preferences or exploring new markets.
  
 
 ### Conclusion
