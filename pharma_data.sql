@@ -194,4 +194,4 @@ WHERE salesRank=1
 SELECT product_class, SUM(sales) AS sales
 FROM pharma
 GROUP BY 1
-ORDER BY sales desc
+ORDER BY sales DESC
